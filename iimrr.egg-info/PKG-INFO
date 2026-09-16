@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: iimrr
+Version: 0.1.0
+Summary: Deterministic-first annual-report PDF section extractor
+Requires-Python: >=3.10
+Requires-Dist: PyMuPDF>=1.23
+Requires-Dist: rapidfuzz>=3.0

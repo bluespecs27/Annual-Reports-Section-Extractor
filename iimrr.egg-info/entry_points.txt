@@ -1,0 +1,2 @@
+[console_scripts]
+iimrr = iimrr.cli:main

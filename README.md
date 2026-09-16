@@ -1,6 +1,6 @@
-# IIMRR
+# Annual Reports Extractor
 
-IIMRR extracts a requested annual-report section into a new PDF without rasterizing or re-rendering pages. It tries bookmarks/hyperlinks, then structural Table-of-Contents heuristics, and only then an optional OpenAI-compatible free-model endpoint.
+Annual Reports Extractor extracts a requested annual-report section into a new PDF without rasterizing or re-rendering pages. It tries bookmarks/hyperlinks, then structural Table-of-Contents heuristics, and only then an optional OpenAI-compatible free-model endpoint. Currently, this works with NVIDIA Nemotron 3 Ultra Model.
 
 ## Usage
 
